@@ -1,0 +1,5 @@
+{
+  "name": "Hospital Intranet Portal",
+  "description": "An internal portal for hospital staff featuring announcements, quick links, and an AI-powered assistant to help with clinical questions and hospital protocols.",
+  "requestFramePermissions": []
+}
